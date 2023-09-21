@@ -1,0 +1,13 @@
+# node.js
+node_modules
+
+# builds
+dist
+
+# git
+commiter.sh
+log.sh
+
+# IDE
+.idea
+.vscode
